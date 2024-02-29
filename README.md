@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Fullstack Ruby developer 
 ------------------------- 
-* 🌍  I'm based in Porto Alegre, RS - Brasil
-* * ✉️  You can contact me at [tteurs@gmail.com](mailto:tteurs@gmail.com)
+* 🌍  I'm based in Porto Alegre - RS - Brasil
+* ✉️  You can contact me at [tteurs@gmail.com](mailto:tteurs@gmail.com)
 
 <a href="https://www.github.com/tteurs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tteurs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
