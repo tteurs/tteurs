@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheo Gracia Pegoraro ==============================================================================================================================================  Fullsatack Ruby developer -------------------------  * 🌍  I'm based in Porto Alegre, RS - Brasil * ✉️  You can contact me at [tteurs@gmail.com](mailto:tteurs@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheo Gracia Pegoraro ==============================================================================================================================================
+Fullsatack Ruby developer 
+------------------------- 
+* 🌍  I'm based in Porto Alegre, RS - Brasil
+* * ✉️  You can contact me at [tteurs@gmail.com](mailto:tteurs@gmail.com)
 
 <a href="https://www.github.com/tteurs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tteurs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
